@@ -1,0 +1,7 @@
+#Fri Dec 02 18:03:28 CET 2016
+base.0=/Users/Nik 1/workspace_swengb/android-BasicGestureDetect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_34d863e4c62d32eed487dc3e2d8224d3a967c28e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Nik 1/workspace_swengb/android-BasicGestureDetect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_40487962a3eb0091140594a31ea6a6f77f9eda1c/classes.dex
+base.1=/Users/Nik 1/workspace_swengb/android-BasicGestureDetect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_40487962a3eb0091140594a31ea6a6f77f9eda1c
+file.0=/Users/Nik 1/workspace_swengb/android-BasicGestureDetect/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_34d863e4c62d32eed487dc3e2d8224d3a967c28e/classes.dex
