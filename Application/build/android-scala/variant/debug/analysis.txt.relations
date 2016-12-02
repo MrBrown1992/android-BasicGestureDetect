@@ -1,0 +1,178 @@
+products:
+   Application/build/generated/source/buildConfig/debug/com/example/android/basicgesturedetect/BuildConfig.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/BuildConfig.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/intermediates/classes/debug/android/support/v7/appcompat/R.class
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> Application/build/intermediates/classes/debug/android/support/v7/cardview/R$attr.class
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> Application/build/intermediates/classes/debug/android/support/v7/cardview/R$color.class
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> Application/build/intermediates/classes/debug/android/support/v7/cardview/R$dimen.class
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> Application/build/intermediates/classes/debug/android/support/v7/cardview/R$style.class
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> Application/build/intermediates/classes/debug/android/support/v7/cardview/R$styleable.class
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> Application/build/intermediates/classes/debug/android/support/v7/cardview/R.class
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> Application/build/intermediates/classes/debug/android/support/v7/gridlayout/R$attr.class
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> Application/build/intermediates/classes/debug/android/support/v7/gridlayout/R$dimen.class
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> Application/build/intermediates/classes/debug/android/support/v7/gridlayout/R$id.class
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> Application/build/intermediates/classes/debug/android/support/v7/gridlayout/R$styleable.class
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> Application/build/intermediates/classes/debug/android/support/v7/gridlayout/R.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$anim.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$attr.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$bool.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$color.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$dimen.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$drawable.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$id.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$integer.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$layout.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$menu.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$string.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$style.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R$styleable.class
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/R.class
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/BasicGestureDetectFragment$$anon$1.class
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/BasicGestureDetectFragment.class
+   Application/src/main/scala/com/example/android/basicgesturedetect/GestureListener.scala -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/GestureListener.class
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/MainActivity$.class
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/build/intermediates/classes/debug/com/example/android/basicgesturedetect/MainActivity.class
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> Application/build/intermediates/classes/debug/com/example/android/common/activities/SampleActivityBase$.class
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> Application/build/intermediates/classes/debug/com/example/android/common/activities/SampleActivityBase.class
+   Application/src/main/scala/com/example/android/common/logger/Log.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/Log$.class
+   Application/src/main/scala/com/example/android/common/logger/Log.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/Log.class
+   Application/src/main/scala/com/example/android/common/logger/LogFragment.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/LogFragment$$anon$1.class
+   Application/src/main/scala/com/example/android/common/logger/LogFragment.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/LogFragment.class
+   Application/src/main/scala/com/example/android/common/logger/LogNode.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/LogNode.class
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/LogView$$anon$1.class
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/LogView$.class
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/LogView.class
+   Application/src/main/scala/com/example/android/common/logger/LogWrapper.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/LogWrapper.class
+   Application/src/main/scala/com/example/android/common/logger/MessageOnlyLogFilter.scala -> Application/build/intermediates/classes/debug/com/example/android/common/logger/MessageOnlyLogFilter.class
+binary dependencies:
+   Application/build/generated/source/buildConfig/debug/com/example/android/basicgesturedetect/BuildConfig.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> /Users/Nik 1/Library/Android/sdk/platforms/android-24/android.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/GestureListener.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/GestureListener.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/GestureListener.scala -> /Users/Nik 1/Library/Android/sdk/platforms/android-24/android.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> /Users/Nik 1/Library/Android/sdk/platforms/android-24/android.jar
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> /Users/Nik 1/Library/Android/sdk/platforms/android-24/android.jar
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar
+   Application/src/main/scala/com/example/android/common/logger/Log.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/common/logger/Log.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   Application/src/main/scala/com/example/android/common/logger/LogFragment.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/common/logger/LogFragment.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   Application/src/main/scala/com/example/android/common/logger/LogFragment.scala -> /Users/Nik 1/Library/Android/sdk/platforms/android-24/android.jar
+   Application/src/main/scala/com/example/android/common/logger/LogFragment.scala -> Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar
+   Application/src/main/scala/com/example/android/common/logger/LogNode.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/common/logger/LogNode.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> /Users/Nik 1/Library/Android/sdk/platforms/android-24/android.jar
+   Application/src/main/scala/com/example/android/common/logger/LogWrapper.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/common/logger/LogWrapper.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   Application/src/main/scala/com/example/android/common/logger/LogWrapper.scala -> /Users/Nik 1/Library/Android/sdk/platforms/android-24/android.jar
+   Application/src/main/scala/com/example/android/common/logger/MessageOnlyLogFilter.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   Application/src/main/scala/com/example/android/common/logger/MessageOnlyLogFilter.scala -> /Users/Nik 1/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+source dependencies:
+   Application/build/generated/source/buildConfig/debug/com/example/android/basicgesturedetect/BuildConfig.java -> Application/build/generated/source/buildConfig/debug/com/example/android/basicgesturedetect/BuildConfig.java
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> Application/build/generated/source/r/debug/android/support/v7/cardview/R.java
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> Application/src/main/scala/com/example/android/basicgesturedetect/GestureListener.scala
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> Application/src/main/scala/com/example/android/common/logger/Log.scala
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> Application/src/main/scala/com/example/android/common/logger/LogFragment.scala
+   Application/src/main/scala/com/example/android/basicgesturedetect/GestureListener.scala -> Application/src/main/scala/com/example/android/common/logger/Log.scala
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/src/main/scala/com/example/android/common/logger/Log.scala
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/src/main/scala/com/example/android/common/logger/LogFragment.scala
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/src/main/scala/com/example/android/common/logger/LogWrapper.scala
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> Application/src/main/scala/com/example/android/common/logger/MessageOnlyLogFilter.scala
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> Application/src/main/scala/com/example/android/common/logger/Log.scala
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> Application/src/main/scala/com/example/android/common/logger/LogWrapper.scala
+   Application/src/main/scala/com/example/android/common/logger/Log.scala -> Application/src/main/scala/com/example/android/common/logger/LogNode.scala
+   Application/src/main/scala/com/example/android/common/logger/LogFragment.scala -> Application/src/main/scala/com/example/android/common/logger/LogView.scala
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> Application/src/main/scala/com/example/android/common/logger/LogNode.scala
+   Application/src/main/scala/com/example/android/common/logger/LogWrapper.scala -> Application/src/main/scala/com/example/android/common/logger/LogNode.scala
+   Application/src/main/scala/com/example/android/common/logger/MessageOnlyLogFilter.scala -> Application/src/main/scala/com/example/android/common/logger/Log.scala
+   Application/src/main/scala/com/example/android/common/logger/MessageOnlyLogFilter.scala -> Application/src/main/scala/com/example/android/common/logger/LogNode.scala
+external dependencies:
+class names:
+   Application/build/generated/source/buildConfig/debug/com/example/android/basicgesturedetect/BuildConfig.java -> com.example.android.basicgesturedetect.BuildConfig
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$anim
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$attr
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$bool
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$color
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$dimen
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$drawable
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$id
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$integer
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$layout
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$string
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$style
+   Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$styleable
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$attr
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$color
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$dimen
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$style
+   Application/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$styleable
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R$attr
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R$dimen
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R$id
+   Application/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R$styleable
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$anim
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$attr
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$bool
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$color
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$dimen
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$drawable
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$id
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$integer
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$layout
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$menu
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$string
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$style
+   Application/build/generated/source/r/debug/com/example/android/basicgesturedetect/R.java -> com.example.android.basicgesturedetect.R$styleable
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> com.example.android.basicgesturedetect.BasicGestureDetectFragment
+   Application/src/main/scala/com/example/android/basicgesturedetect/BasicGestureDetectFragment.scala -> com.example.android.basicgesturedetect.BasicGestureDetectFragment$$anon$1
+   Application/src/main/scala/com/example/android/basicgesturedetect/GestureListener.scala -> com.example.android.basicgesturedetect.GestureListener
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> com.example.android.basicgesturedetect.MainActivity
+   Application/src/main/scala/com/example/android/basicgesturedetect/MainActivity.scala -> com.example.android.basicgesturedetect.MainActivity$
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> com.example.android.common.activities.SampleActivityBase
+   Application/src/main/scala/com/example/android/common/activities/SampleActivityBase.scala -> com.example.android.common.activities.SampleActivityBase$
+   Application/src/main/scala/com/example/android/common/logger/Log.scala -> com.example.android.common.logger.Log
+   Application/src/main/scala/com/example/android/common/logger/Log.scala -> com.example.android.common.logger.Log$
+   Application/src/main/scala/com/example/android/common/logger/LogFragment.scala -> com.example.android.common.logger.LogFragment
+   Application/src/main/scala/com/example/android/common/logger/LogFragment.scala -> com.example.android.common.logger.LogFragment$$anon$1
+   Application/src/main/scala/com/example/android/common/logger/LogNode.scala -> com.example.android.common.logger.LogNode
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> com.example.android.common.logger.LogView
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> com.example.android.common.logger.LogView$
+   Application/src/main/scala/com/example/android/common/logger/LogView.scala -> com.example.android.common.logger.LogView$$anon$1
+   Application/src/main/scala/com/example/android/common/logger/LogWrapper.scala -> com.example.android.common.logger.LogWrapper
+   Application/src/main/scala/com/example/android/common/logger/MessageOnlyLogFilter.scala -> com.example.android.common.logger.MessageOnlyLogFilter
