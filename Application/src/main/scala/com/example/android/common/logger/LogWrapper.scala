@@ -50,13 +50,13 @@ class LogWrapper extends LogNode {
     if (useMsg == null) {
       useMsg = ""
     }
-    val mmsg =
+    val newmessage =
       if (tr != null) {
         msg + "\n" + android.util.Log.getStackTraceString(tr)
       } else msg
     android.util.Log.println(priority, tag, useMsg)
     if (mNext != null) {
-      mNext.println(priority, tag, mmsg, tr)
+      mNext.println(priority, tag, newmessage, tr)
     }
   }
 }
